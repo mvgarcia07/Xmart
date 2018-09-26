@@ -1,2 +1,4 @@
 # Xmart
-Python Ferramentas para rodar em modo de previsão by Guilherme Stefan
+Python Ferramentas para rodar em modo de previsão Mohid 
+Origanilly Written by Guilherme Stefan
+
